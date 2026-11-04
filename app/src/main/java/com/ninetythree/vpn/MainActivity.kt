@@ -1,6 +1,6 @@
 package com.ninetythree.vpn
 
-import android.os.Bundlepackage com.ninetythree.vpn
+
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
